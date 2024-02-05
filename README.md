@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I'm an MSc student in Data Science & Business Informatics<br>🔭 I’m currently working on DS & ML projects
+⚡ I'm an MSc student in Data Science & Business Informatics<br>💼  I’m a Business Intelligence Engineer at Amazon<br>🔭 I’m currently working on DS & ML projects
 
 
 ## 🌐 Socials:
